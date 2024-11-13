@@ -4,9 +4,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-const double tileHeight = 50;
-const double selectAllButtonHeight = 40;
-const double searchOptionHeight = 40;
+const double tileHeight = 32;
+const double selectAllButtonHeight = 32;
+const double searchOptionHeight = 32;
 
 class MultiSelectDropdown extends StatefulWidget {
   /// List of options to select from
